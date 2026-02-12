@@ -1,5 +1,7 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
-
+## Date : 22/01/2026
+## Name :Gaushika RR
+## Ref.no : 25017292
 ## AIM
 
 To sketch the given drawing with dimensions using fusion 360 tool.
